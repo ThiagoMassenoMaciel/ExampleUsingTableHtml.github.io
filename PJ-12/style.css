@@ -1,0 +1,17 @@
+:root{
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.6rem;
+}
+
+table{
+  padding: 3rem;
+  border-radius: 1rem;
+
+  width: 20rem;
+
+  border: .3rem solid hsl(0, 100%, 50%);
+
+}
